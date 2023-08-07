@@ -1,6 +1,6 @@
 ---
 published: true
-title: '2023-08-08-Etc-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프_HTML,CSS과제 리팩토링'
+title: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프_HTML,CSS과제 리팩토링'
 categories:
   - Etc
 tags:
