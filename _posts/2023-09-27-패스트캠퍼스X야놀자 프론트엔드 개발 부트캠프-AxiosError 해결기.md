@@ -1,12 +1,12 @@
 ---
 published: true
-title: "AxiosError 해결기"
+title: '2023-09-27-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-AxiosError 해결기'
 categories:
-  - Etc
+  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
 tags:
 toc: true
 toc_sticky: true
-toc_label: "Etc"
+toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
 ---
 
 ### 사건의 발단
@@ -64,10 +64,10 @@ responseURL
 
 ```javascript
 const axiosInstance = axios.create({
-  baseURL: "https://api.themoviedb.org/3",
+  baseURL: 'https://api.themoviedb.org/3',
   params: {
-    api_key: "API_KEY",
-    language: "ko-KR",
+    api_key: 'API_KEY',
+    language: 'ko-KR',
   },
 });
 ```
@@ -75,7 +75,7 @@ const axiosInstance = axios.create({
 설마 해서 axios를 import하는 부분을 보니 다음가 같이 되어있었다.
 
 ```javascript
-import axios from "axios";
+import axios from 'axios';
 ```
 
 Copilot을 사용하다 보니 import 과정에서 무심코 tab키를 쳐서 위와 같이 import를 해왔던 것이다.
@@ -84,7 +84,7 @@ Copilot을 사용하다 보니 import 과정에서 무심코 tab키를 쳐서 �
 다시 다음과 같이 axios instance의 경로를 잡아주었더니 에러가 해결되었다 ㅠㅠ
 
 ```javascript
-import axios from "../api/axios";
+import axios from '../api/axios';
 ```
 
 ### 마무리
