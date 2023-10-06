@@ -61,8 +61,15 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                {% if category[0] == "Etc" %}
-                <li><a href="/categories/Etc" class="">Etc ({{category[1].size}})</a></li>
+                {% if category[0] == "동국대SW역량강화캠프" %}
+                <li><a href="/categories/동국대SW역량강화캠프" class="">동국대SW역량강화캠프 ({{category[1].size}})</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                {% if category[0] == "패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프" %}
+                <li><a href="/categories/패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프" class="">패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프 ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
