@@ -1,7 +1,7 @@
 ---
-title: '동국대SW역량강화캠프'
+title: 'Algorithm'
 layout: category
-permalink: categories/동국대SW역량강화캠프
+permalink: categories/Algorithm
 author_profile: true
 sidebar_main: true
 ---
