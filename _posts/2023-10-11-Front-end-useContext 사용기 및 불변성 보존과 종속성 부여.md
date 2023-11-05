@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-11-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-useContext 사용기 및 불변성 보존과 종속성 부여'
+title: '2023-10-11-Front-end-useContext 사용기 및 불변성 보존과 종속성 부여'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 ### `useContext`란?

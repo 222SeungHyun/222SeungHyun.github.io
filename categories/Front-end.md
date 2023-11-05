@@ -1,7 +1,7 @@
 ---
-title: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+title: 'Front-end'
 layout: category
-permalink: categories/패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+permalink: categories/Front-end
 author_profile: true
 sidebar_main: true
 ---

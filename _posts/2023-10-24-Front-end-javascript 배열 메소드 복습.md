@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-24-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-javascript 배열 메소드 복습'
+title: '2023-10-24-Front-end-javascript 배열 메소드 복습'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 ### 시작하며...

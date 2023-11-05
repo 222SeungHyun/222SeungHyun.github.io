@@ -2,12 +2,12 @@
 published: true
 title: 'Programmers : 입실 퇴실'
 categories:
-  - Programmers
+  - Algorithm
 tags:
-  - Programmers
+  - Algorithm
 toc: true
 toc_sticky: true
-toc_label: 'Programmers'
+toc_label: 'Algorithm'
 ---
 
 **문제**  
@@ -29,17 +29,18 @@ toc_label: 'Programmers'
 - 3번과 4번은 반드시 만났습니다.
 
 회의실에 입실한 순서가 담긴 정수 배열 enter, 퇴실한 순서가 담긴 정수 배열 leave가 매개변수로 주어질 때, 각 사람별로 반드시 만난 사람은 몇 명인지 번호 순서대로 배열에 담아 return 하도록 solution 함수를 완성해주세요.
-  
+
 <br>
 
-**제한 사항**  
+**제한 사항**
+
 - 1 ≤ enter의 길이 ≤ 1,000
 - 1 ≤ enter의 원소 ≤ enter의 길이
 - 모든 사람의 번호가 중복없이 하나씩 들어있습니다.
 - leave의 길이 = enter의 길이
 - 1 ≤ leave의 원소 ≤ leave의 길이
 - 모든 사람의 번호가 중복없이 하나씩 들어있습니다.
-<br>
+  <br>
 
 **입출력 예시**  
 ![image](https://github.com/222SeungHyun/222SeungHyun.github.io/blob/master/_images/%EC%9E%85%EC%8B%A4%20%ED%87%B4%EC%8B%A4.png?raw=true)
@@ -56,20 +57,20 @@ def solution(enter, leave):
     result = [0]*len(enter)
     # pop시 에러 방지용
     result.append(0)
-    
+
     current = []
-    
+
     while leave:
         if leave[0] in current:
             out = leave.pop(0)
             current.remove(out)
             result[out] += len(current)
-            
+
             for i in current:
                 result[i] += 1
         else:
             current.append(enter.pop(0))
-    
+
     return result[1:]
 
 print(solution([1,3,2], [1,2,3]))

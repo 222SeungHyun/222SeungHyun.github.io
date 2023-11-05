@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-18-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-Redux를 이용한 앱 만들기'
+title: '2023-10-18-Front-end-Redux를 이용한 앱 만들기'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 ### 시작하며...

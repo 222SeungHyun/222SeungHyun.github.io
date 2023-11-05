@@ -1,13 +1,13 @@
 ---
 published: true
-title: '2023-08-29-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-JS과제 리팩토링'
+title: '2023-08-29-Front-end-JS과제 리팩토링'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 # 이전 코드 VS 리펙토링 코드

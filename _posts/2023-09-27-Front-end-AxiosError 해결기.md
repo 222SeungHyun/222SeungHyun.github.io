@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-09-27-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-AxiosError 해결기'
+title: '2023-09-27-Front-end-AxiosError 해결기'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 ### 사건의 발단

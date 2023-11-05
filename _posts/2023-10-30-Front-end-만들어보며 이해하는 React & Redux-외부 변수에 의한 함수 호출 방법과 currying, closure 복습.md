@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-30-패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프-만들어보며 이해하는 React & Redux-외부 변수에 의한 함수 호출 방법과 currying, closure 복습'
+title: '2023-10-30-Front-end-만들어보며 이해하는 React & Redux-외부 변수에 의한 함수 호출 방법과 currying, closure 복습'
 categories:
-  - 패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프
+  - Front-end
 tags:
 toc: true
 toc_sticky: true
-toc_label: '패스트캠퍼스X야놀자 프론트엔드 개발 부트캠프'
+toc_label: 'Front-end'
 ---
 
 ### 시작하며...
