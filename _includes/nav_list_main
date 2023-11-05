@@ -54,7 +54,7 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                {% if category[0] == "Programmers" || category[0] == "동국대SW역량강화캠프" %}
+                {% if category[0] == "Programmers" or category[0] == "동국대SW역량강화캠프" %}
                 <li><a href="/categories/Algorithm" class="">Algorithm ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
