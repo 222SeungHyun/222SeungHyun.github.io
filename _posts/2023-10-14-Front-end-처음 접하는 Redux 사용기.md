@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-14-Front-end-처음 접하는 Redux 사용기'
+title: '2023-10-14-Front-End-처음 접하는 Redux 사용기'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### Redux란?

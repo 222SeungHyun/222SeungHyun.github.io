@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-24-Front-end-javascript 배열 메소드 복습'
+title: '2023-10-24-Front-End-javascript 배열 메소드 복습'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### 시작하며...

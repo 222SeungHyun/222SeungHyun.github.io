@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-24-Front-end-react-hook-form 더 알아보기'
+title: '2023-10-24-Front-End-react-hook-form 더 알아보기'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### 시작하며...

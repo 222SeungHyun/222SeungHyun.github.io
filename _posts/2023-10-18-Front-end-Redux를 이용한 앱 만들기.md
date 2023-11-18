@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-18-Front-end-Redux를 이용한 앱 만들기'
+title: '2023-10-18-Front-End-Redux를 이용한 앱 만들기'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### 시작하며...

@@ -61,8 +61,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                {% if category[0] == "Front-end" %}
-                <li><a href="/categories/Front-end" class="">Front-end ({{category[1].size}})</a></li>
+                {% if category[0] == "Front-End" %}
+                <li><a href="/categories/Front-End" class="">Front-End ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>

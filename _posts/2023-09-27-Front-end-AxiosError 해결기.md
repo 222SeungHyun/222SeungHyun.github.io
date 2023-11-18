@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-09-27-Front-end-AxiosError 해결기'
+title: '2023-09-27-Front-End-AxiosError 해결기'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### 사건의 발단

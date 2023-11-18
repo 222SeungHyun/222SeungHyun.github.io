@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-04-Front-end-useRef와 커스텀 훅 사용기'
+title: '2023-10-04-Front-End-useRef와 커스텀 훅 사용기'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### `useRef`를 사용하게 된 계기

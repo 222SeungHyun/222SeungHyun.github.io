@@ -1,13 +1,13 @@
 ---
 published: true
-title: '2023-08-08-Front-end-HTML,CSS과제 리팩토링'
+title: '2023-08-08-Front-End-HTML,CSS과제 리팩토링'
 categories:
-  - Front-end
+  - Front-End
 tags:
-  - Front-end
+  - Front-End
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 # 이전 코드 VS 리펙토링 코드

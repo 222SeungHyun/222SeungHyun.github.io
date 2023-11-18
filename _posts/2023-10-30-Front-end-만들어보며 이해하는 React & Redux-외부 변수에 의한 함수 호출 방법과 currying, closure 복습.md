@@ -1,12 +1,12 @@
 ---
 published: true
-title: '2023-10-30-Front-end-만들어보며 이해하는 React & Redux-외부 변수에 의한 함수 호출 방법과 currying, closure 복습'
+title: '2023-10-30-Front-End-만들어보며 이해하는 React & Redux-외부 변수에 의한 함수 호출 방법과 currying, closure 복습'
 categories:
-  - Front-end
+  - Front-End
 tags:
 toc: true
 toc_sticky: true
-toc_label: 'Front-end'
+toc_label: 'Front-End'
 ---
 
 ### 시작하며...

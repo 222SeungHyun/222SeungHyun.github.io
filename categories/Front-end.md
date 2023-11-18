@@ -1,7 +1,7 @@
 ---
-title: 'Front-end'
+title: 'Front-End'
 layout: category
-permalink: categories/Front-end
+permalink: categories/Front-End
 author_profile: true
 sidebar_main: true
 ---
